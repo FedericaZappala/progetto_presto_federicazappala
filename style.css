@@ -1,0 +1,23 @@
+:root{
+    --primary: #dbead7;
+    --secondary: #c3dcbc ;
+    --secondaryplus: #abcea1;
+    --tertiary: #94c186;
+    --tertiaryplus: #7cb36b;
+    --quarto: #66a253;
+    --quartoplus: #558745;
+    --quinto: #446c37;
+    --quintoplus: #33512a;
+    --sesto: #20331a;
+
+
+}
+body{
+    background-color: var(--primary);
+}
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    color: var(--quinto);
+}
